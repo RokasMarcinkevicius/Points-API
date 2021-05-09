@@ -22,9 +22,9 @@ Copy the Postman requests as described below.
 To create Points create such a request:
 ![CreatePoints](https://github.com/RokasMarcinkevicius/AdForm/blob/master/Images/CreatePoints.jpg)
 To get all the active points input the request as so:
-![GetAllPoints](Images\GetAllPoints.jpg)
+![GetAllPoints](https://github.com/RokasMarcinkevicius/AdForm/blob/master/Images/GetAllPoints.jpg)
 To get squares and/or the number of them in your submitted list of points create the request as so:
-![GetSquares](Images\GetSquares.jpg)
+![GetSquares](https://github.com/RokasMarcinkevicius/AdForm/blob/master/Images/GetSquares.jpg)
 
 If you cannot install postman due to company policy you can also open a generic terminal and input cURL requests as so to replicate the same interactions:
 
