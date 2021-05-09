@@ -2,9 +2,13 @@ Copyright: 2021 Rokas Marcinkevicius <rokas.marcinkevicius@ktu.edu>
 
 Prerequisites:
 Visual Studio Code - https://code.visualstudio.com/download
+
 C# for Visual Studio Code (latest version) - https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
+
 .NET Core 3.1 SDK or later - https://dotnet.microsoft.com/download/dotnet-core/3.1
+
 Github Repo - Download the Repo from https://github.com/RokasMarcinkevicius/AdForm.git
+
 Postman - Download postman from https://www.postman.com/downloads/
 
 Unzip the repo, Open Visual Studio Code, select file -> Open Folder, select the unzipped repo.
@@ -16,7 +20,7 @@ then open Postman.
 
 Copy the Postman requests as described below.
 To create Points create such a request:
-![CreatePoints](Images\CreatePoints.jpg)
+![CreatePoints](https://github.com/RokasMarcinkevicius/AdForm/blob/master/Images/CreatePoints.jpg)
 To get all the active points input the request as so:
 ![GetAllPoints](Images\GetAllPoints.jpg)
 To get squares and/or the number of them in your submitted list of points create the request as so:
